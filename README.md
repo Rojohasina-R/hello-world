@@ -2,4 +2,5 @@
 My first repository
 
 Hi there!
-My name is John Doe!
+My name is Rojo!
+That's the first time I use GitHub.
